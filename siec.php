@@ -3,8 +3,7 @@
    <head>
        <meta charset="utf-8">
        <link rel="stylesheet" href="input.css">
-       <title>sieć</title> 
-    
+       <title>sieć</title>     
    </head>
    <body>
       <div class="binarka">
