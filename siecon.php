@@ -4,8 +4,7 @@
        <meta charset="utf-8">
        <link rel="stylesheet" href="input.css">
        <title>Sieć logowanie</title> 
-    
-    </head>
+       </head>
     <body> 
        
         <h1>Witaj Urzytkowniku</h1>
@@ -42,5 +41,4 @@
          </div>
         
     </body>
-
 </html>
