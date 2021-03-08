@@ -38,7 +38,6 @@
          </div>
          <div id="podpowiedz">
              <p>Mała podpowiedz :<br/>To jesteś ty <span>?</span></p>
-         </div>
-        
+         </div>      
     </body>
 </html>
