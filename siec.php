@@ -30,7 +30,6 @@
             <a> w sieci</a>
             <br/>
             <br/>
-            
        <p id="uno">Widzę że w końcu rozwiązałeś zagadkę<p/>     
        <p id="due">Przed opuszczeniem sieci wyloguj się z niej</p><br/>
             
