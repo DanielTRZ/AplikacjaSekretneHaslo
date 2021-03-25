@@ -5,8 +5,7 @@
        <link rel="stylesheet" href="input.css">
        <title>Koniec Sesji</title> 
     </head>
-    
-    <body>
+ <body>
         <div id="wylogowanie">
     <?php
         session_start();
