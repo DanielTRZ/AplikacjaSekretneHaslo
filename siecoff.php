@@ -26,6 +26,6 @@
         <br/><br/>
         <a href="siecon.php"><span>Logowanie</span></a>
        </div>
-    
+
     </body>
 </html>
