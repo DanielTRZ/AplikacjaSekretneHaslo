@@ -84,8 +84,7 @@ p{
    white-space: nowrap;
    overflow: hidden;
    width: 30em;
-   animation: type2 5s steps(60,end);
-    
+   animation: type2 5s steps(60,end);   
 }
 #due{margin: auto;
    font-family: "Courier";
